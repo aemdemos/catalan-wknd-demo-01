@@ -1,5 +1,5 @@
 # catalan-wknd-demo-01
-This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe/aem-boilerplate](https://github.com/adobe/aem-boilerplate).
+This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe-rnd/aem-boilerplate-xwalk](https://github.com/adobe-rnd/aem-boilerplate-xwalk).
 
 ## Environments
 - Preview: https://main--catalan-wknd-demo-01--aemdemos.hlx.page/
